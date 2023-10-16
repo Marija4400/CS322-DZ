@@ -1,0 +1,16 @@
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\bin\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.exe
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\bin\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.deps.json
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\bin\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.runtimeconfig.json
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\bin\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.dll
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\bin\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.pdb
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322_DZ02_Marija_Milovanovic_4400.Form1.resources
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.csproj.GenerateResource.cache
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.AssemblyInfoInputs.cache
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.AssemblyInfo.cs
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.csproj.CoreCompileInputs.cache
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.dll
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\refint\CS322-DZ02-Marija-Milovanovic-4400.dll
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.pdb
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\CS322-DZ02-Marija-Milovanovic-4400.genruntimeconfig.cache
+C:\Users\Majce\source\repos\CS322-DZ02-Marija-Milovanovic-4400\CS322-DZ02-Marija-Milovanovic-4400\obj\Debug\net6.0-windows\ref\CS322-DZ02-Marija-Milovanovic-4400.dll
